@@ -25,15 +25,22 @@ the customer within short span of time.
 //----------------------------------------------------------------------------------------------------------------------------//
 
 Advantages & Disadvantages
+
 ▪ Advantages:
+
 ▪ Requirement changes are allowed in any stage of development (or) We can accommodate
 Requirement changes in the middle of development.
+
 ▪ Releases will be very fast( Weekly)
+
 ▪ Customer no need to wait for long time.
+
 ▪ Good communication between team.
+
 ▪ It is very easy model to adopt.
 
 ▪ Disadvantage:
+
 ▪ Less focus on design and documentation since we deliver software very faster.
 
 //----------------------------------------------------------------------------------------------------------------------------//
@@ -41,22 +48,33 @@ Requirement changes in the middle of development.
 What is Scrum?
 
 ▪ Scrum is a framework through which we build software product by following Agile Principles.
+
 ▪ Scrum includes group of people called as Scrum team. Normally contains 5-9 members.
+
 – Product Owner
+
 – Scrum Master
+
 – Dev Team
+
 – QA Team
 
 ▪ Product Owner :
+
 – Define the features of the product
+
 – Prioritize features according to market value
+
 – Adjust features and priority every iteration, as needed
+
 – Accept or reject work results.
 
 ▪ Scrum Master:
+
 – The main role is facilitating and driving the agile process.
 
 ▪ Developers and QA:
+
 – Develop and Test the software.
 
 //----------------------------------------------------------------------------------------------------------------------------//
@@ -78,8 +96,11 @@ the sprint and duration.
 ▪ Sprint backlog : List of committed stories by Dev/QA for specific sprint.
 
 ▪ Scrum meeting : Meating conducted by Scrum Master everyday 15 mins. Called as Standup meeting.
+
 – What did you do yesterday?
+
 – What will you do today?
+
 – Are there any impediments in your way?
 
 ▪ Sprint retrospective meeting : Review meeting after completion of sprint. The entire team, including
