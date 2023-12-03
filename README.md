@@ -128,57 +128,111 @@ both the ScrumMaster and the product owner should participate.
 
 
 Topics Covered:
+
 Module-1:  Software Testing Concepts
+
 SDLC & STLC
+
 Project Vs Product
+
 V-Model
+
 QA & QC & QE
+
 Different Levels of Software Testing
+
 White Box & Black Box Testing
+
 Static Testing & Dynamic Testing
+
 Verification & Validation
+
 System Testing Types
+
 GUI Testing
+
 Functional & Non-Functional Testing
+
 Test Design Techniques
+
 Re-Testing & Regression testing
+
 Exploratory Testing
+
 Adhoc Testing
+
 Sanity & Smoke Testing
+
 End-To-End Testing
+
 STLC (Software Testing Life Cycle)
+
 Use case, Test scenario & Test case
+
 Test Environment and Execution
+
 Defect Reporting
+
 Test Closure
+
 Test Metrics
+
 Module-2:  Software Testing Live Project
+
 Project introduction
+
 Understanding Functional Requirements from FRS
+
 Creating Test Scenarios
+
 Creating Test Cases
+
 Test Execution
+
 Bug Reporting & Tracking
+
 Test Sign off
+
 Phase-3:  Agile Testing + Jira Tool
+
 Agile/Scrum Process:
+
 What is Agile
+
 What is Scrum / Scrum Team
+
 What is Sprint
+
 What is User Story
+
 How to give story points / How to estimate user story
+
 What is Definition of Done and Definition of Ready
+
 Different Sprint Activities:
+
 Sprint Planning / Backlog Refinement / Sprint Review / Sprint Retrospective
+
 Jira Tool
+
 How to install and configure JIRA tool
+
 How to create Project in Jira
+
 Hoe to create users in Jira
+
 How to create Backlog, Epic & User Stories in JIRA
+
 Creating sprint in Jira
+
 Starting sprint
+
 Sprint life cycle in JIRA
+
 Creating bugs in Jira
+
 How to write test cases in JIRA with Zephyr plugin
+
+
 Creating Test Cycles
 Execute/update Test cases in Jira
