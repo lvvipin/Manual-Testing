@@ -3,17 +3,27 @@
 Agile Methodology
 
 Agile model /Agile methodology /Agile process.
+
 ▪ It is an Iterative and Incremental Approach.
+
 ▪ Iterative means same process repeating again and again.(The process keeps on repeating).
+
 ▪ Incremental means, modules/features keep on adding on top of existing software.
+
 ▪ Agile is Iterative and Incremental model where requirements keeps on changing.
+
 ▪ As a company we should be flexible to accept requirements change, develop, test and finally
 release a peace of working software within short span of time.
+
 ▪ There will be good communication between Customer, Business Analyst, Developers & Testers.
+
 ▪ The Goal of the agile model is the customer satisfaction by delivering the piece of the software to
 the customer within short span of time.
+
 ▪ Agile Testing is type of testing where we follow the agile principles.
+
 //----------------------------------------------------------------------------------------------------------------------------//
+
 Advantages & Disadvantages
 ▪ Advantages:
 ▪ Requirement changes are allowed in any stage of development (or) We can accommodate
@@ -25,8 +35,11 @@ Requirement changes in the middle of development.
 
 ▪ Disadvantage:
 ▪ Less focus on design and documentation since we deliver software very faster.
+
 //----------------------------------------------------------------------------------------------------------------------------//
+
 What is Scrum?
+
 ▪ Scrum is a framework through which we build software product by following Agile Principles.
 ▪ Scrum includes group of people called as Scrum team. Normally contains 5-9 members.
 – Product Owner
@@ -45,8 +58,11 @@ What is Scrum?
 
 ▪ Developers and QA:
 – Develop and Test the software.
+
 //----------------------------------------------------------------------------------------------------------------------------//
+
 Scrum Terminology
+
 ▪ User Story : A Feature/module in a software
 
 ▪ Epic : Collection of user stories.
@@ -72,4 +88,5 @@ both the ScrumMaster and the product owner should participate.
 ▪ Story point : Rough estimation of user stories, will be given by Dev & QA in the form of Fibonacci series.
 
 ▪ Burndown chart : Shows how much work remining in the sprint. Maintained by the scrum master daily.
+
 //----------------------------------------------------------------------------------------------------------------------------//
