@@ -39,6 +39,8 @@ Requirement changes in the middle of development.
 
 ▪ It is very easy model to adopt.
 
+//----------------------------------------------------------------------------------------------------------------------------//
+
 ▪ Disadvantage:
 
 ▪ Less focus on design and documentation since we deliver software very faster.
@@ -59,6 +61,8 @@ What is Scrum?
 
 – QA Team
 
+//----------------------------------------------------------------------------------------------------------------------------//
+
 ▪ Product Owner :
 
 – Define the features of the product
@@ -69,9 +73,13 @@ What is Scrum?
 
 – Accept or reject work results.
 
+//----------------------------------------------------------------------------------------------------------------------------//
+
 ▪ Scrum Master:
 
 – The main role is facilitating and driving the agile process.
+
+//----------------------------------------------------------------------------------------------------------------------------//
 
 ▪ Developers and QA:
 
